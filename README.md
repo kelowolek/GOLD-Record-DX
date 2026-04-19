@@ -45,11 +45,11 @@ O **GOLD Record DX** possui um motor de captura inteligente que resolve um probl
 
 ## 📸 Demonstração
 
-| Interface Principal | Seleção de Qualidade |
+|  | e |
 |:---:|:---:|
 | ![01](./01.png) | ![02](./02.png) |
 
-| Seleção de Destino | Gravação Ativa |
+|  |  |
 |:---:|:---:|
 | ![03](./03.png) | ![04](./04.png) |
 
