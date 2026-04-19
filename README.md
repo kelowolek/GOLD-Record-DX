@@ -45,10 +45,10 @@ O **GOLD Record DX** possui um motor de captura inteligente que resolve um probl
 
 ## 📸 Demonstração
 
-> `![01](GOLD-Record-DX/01.png)`
-> > `![02](GOLD-Record-DX/02.png)`
-> > > `![03](GOLD-Record-DX/03.png)`
-> > > > `![04](GOLD-Record-DX/04.png)`
+> `![01](01.png)`
+> > `![02](02.png)`
+> > > `![03](03.png)`
+> > > > `![04](04.png)`
 
 ---
 
